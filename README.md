@@ -10,7 +10,7 @@ This repository provides the source code that was used to create the data for th
             url = {https://arxiv.org/pdf/2112.07349.pdf},
     }
 
-Please cite our work if you use the code. All Matlab and Python sources are contained in the `lib/` folder.
+Please cite our work if you use the code. All Matlab and Python sources are contained in the `lib/` folder. Click [here](https://arxiv.org/pdf/2112.07349.pdf) to see the preprint on arxiv.
 
 The networks of the two mainly considered are located in `./data/nets/`.
 
